@@ -1,0 +1,1 @@
+{"version":3,"file":"addres.js","sources":["E:/otherapp/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvYWRkcmVzL2FkZHJlcy52dWU"],"sourcesContent":["import MiniProgramPage from 'F:/reno-mall/mall-app-web/mall-portal-web/pages/addres/addres.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

@@ -1,0 +1,163 @@
+{
+    "product": {
+        "id": 43,
+        "brandId": 1,
+        "productCategoryId": 39,
+        "feightTemplateId": 0,
+        "productAttributeCategoryId": 14,
+        "name": "万和（Vanward)燃气热水器天然气家用四重防冻直流变频节能全新升级增压水伺服恒温高抗风",
+        "pic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_13L_01.png",
+        "productSn": "10044060351752",
+        "deleteStatus": 0,
+        "publishStatus": 1,
+        "newStatus": 0,
+        "recommandStatus": 0,
+        "verifyStatus": 0,
+        "sort": 0,
+        "sale": 0,
+        "price": 1799.00,
+        "giftGrowth": 0,
+        "giftPoint": 0,
+        "usePointLimit": 0,
+        "subTitle": "【家电11.11享低价，抢到手价不高于1199】【发布种草秀享好礼！同价11.11买贵补差】爆款超一级能效零冷水】 ",
+        "originalPrice": 1799.00,
+        "stock": 1000,
+        "lowStock": 0,
+        "unit": "",
+        "weight": 0.00,
+        "previewStatus": 0,
+        "serviceIds": "",
+        "keywords": "",
+        "note": "",
+        "albumPics": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_16L_01.jpg",
+        "detailTitle": "",
+        "promotionPerLimit": 0,
+        "promotionType": 0,
+        "brandName": "万和",
+        "productCategoryName": "厨卫大电",
+        "description": "",
+        "detailDesc": "",
+        "detailHtml": "",
+        "detailMobileHtml": "<p><img class=\"wscnph\" src=\"http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_water_snipaste_01.png\" /><img class=\"wscnph\" src=\"http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_water_snipaste_02.png\" /><img class=\"wscnph\" src=\"http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_water_snipaste_03.png\" /><img class=\"wscnph\" src=\"http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_water_snipaste_04.png\" /><img class=\"wscnph\" src=\"http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_water_snipaste_05.png\" /></p>"
+    },
+    "brand": {
+        "id": 1,
+        "name": "万和",
+        "firstLetter": "W",
+        "sort": 0,
+        "factoryStatus": 1,
+        "showStatus": 1,
+        "productCount": 100,
+        "productCommentCount": 100,
+        "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20200607/5b07ca8aN4e127d2f.jpg",
+        "bigPic": "http://img13.360buyimg.com/cms/jfs/t1/121860/35/2430/187800/5ec4e294E22f3ffcc/1e233b65b94ba192.jpg",
+        "brandStory": "万和成立于1993年8月，总部位于广东顺德国家级高新技术开发区内，是国内生产规模最大的燃气具专业制造企业，也是中国燃气具发展战略的首倡者和推动者、中国五金制品协会燃气用具分会第三届理事长单位。"
+    },
+    "productAttributeList": [
+        {
+            "id": 63,
+            "productAttributeCategoryId": 14,
+            "name": "系列",
+            "selectType": 0,
+            "inputType": 0,
+            "inputList": "",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": 1,
+            "type": 0
+        },
+        {
+            "id": 64,
+            "productAttributeCategoryId": 14,
+            "name": "上市时间",
+            "selectType": 0,
+            "inputType": 0,
+            "inputList": "",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": 0,
+            "type": 1
+        },
+        {
+            "id": 65,
+            "productAttributeCategoryId": 14,
+            "name": "毛重",
+            "selectType": 0,
+            "inputType": 0,
+            "inputList": "",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": 0,
+            "type": 1
+        },
+        {
+            "id": 66,
+            "productAttributeCategoryId": 14,
+            "name": "额定功率",
+            "selectType": 0,
+            "inputType": 0,
+            "inputList": "",
+            "sort": 0,
+            "filterType": 0,
+            "searchType": 0,
+            "relatedStatus": 0,
+            "handAddStatus": 0,
+            "type": 1
+        }
+    ],
+    "productAttributeValueList": [
+        {
+            "id": 462,
+            "productId": 43,
+            "productAttributeId": 63,
+            "value": "JSQ25-565W13【13升】【恒温旗舰款】,JSQ30-565W16【16升】【恒温旗舰款】"
+        },
+        {
+            "id": 463,
+            "productId": 43,
+            "productAttributeId": 64,
+            "value": "2021-05"
+        },
+        {
+            "id": 464,
+            "productId": 43,
+            "productAttributeId": 65,
+            "value": "15.5kg"
+        },
+        {
+            "id": 465,
+            "productId": 43,
+            "productAttributeId": 66,
+            "value": "30w"
+        }
+    ],
+    "skuStockList": [
+        {
+            "id": 233,
+            "productId": 43,
+            "skuCode": "202211040043001",
+            "price": 1649.00,
+            "stock": 500,
+            "pic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_13L_01.png",
+            "lockStock": 0,
+            "spData": "[{\"key\":\"系列\",\"value\":\"JSQ25-565W13【13升】【恒温旗舰款】\"}]"
+        },
+        {
+            "id": 234,
+            "productId": 43,
+            "skuCode": "202211040043002",
+            "price": 1799.00,
+            "stock": 500,
+            "pic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221104/wanhe_13L_01.png",
+            "lockStock": 0,
+            "spData": "[{\"key\":\"系列\",\"value\":\"JSQ30-565W16【16升】【恒温旗舰款】\"}]"
+        }
+    ],
+    "couponList": []
+}

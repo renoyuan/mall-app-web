@@ -1,0 +1,45 @@
+import request from '@/utils/requestUtil';
+
+// 定义接口或类型来增强类型安全
+interface Params {
+  [key: string]: any; // 这里可以根据实际参数类型进行更精确的定义
+}
+
+// 使用async/await简化异步操作
+export async function fetchContent(): Promise<any> { // 替换any为具体的返回类型
+  return await request({
+    method: 'GET',
+    url: '/home/content'
+  });
+}
+
+export async function fetchRecommendProductList(params: Params): Promise<any> { // 替换any为具体的返回类型
+  return await request({
+    method: 'GET',
+    url: '/home/recommendProductList',
+    params: params
+  });
+}
+
+export async function fetchProductCateList(parentId: number | string): Promise<any> { // 替换any为具体的返回类型
+  return await request({
+    method: 'GET',
+    url: `/home/productCateList/${parentId}`
+  });
+}
+
+export async function fetchNewProductList(params: Params): Promise<any> { // 替换any为具体的返回类型
+  return await request({
+    method: 'GET',
+    url: '/home/newProductList',
+    params: params
+  });
+}
+
+export async function fetchHotProductList(params: Params): Promise<any> { // 替换any为具体的返回类型
+  return await request({
+    method: 'GET',
+    url: '/home/hotProductList',
+    params: params
+  });
+}

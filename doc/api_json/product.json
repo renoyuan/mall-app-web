@@ -1,0 +1,233 @@
+{
+    "code": 200,
+    "message": "操作成功",
+    "data": {
+        "product": {
+            "id": 27,
+            "brandId": 6,
+            "productCategoryId": 19,
+            "feightTemplateId": 0,
+            "productAttributeCategoryId": 3,
+            "name": "小米8 全面屏游戏智能手机 6GB+64GB 黑色 全网通4G 双卡双待",
+            "pic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20180615/xiaomi.jpg",
+            "productSn": "7437788",
+            "deleteStatus": 0,
+            "publishStatus": 1,
+            "newStatus": 1,
+            "recommandStatus": 1,
+            "verifyStatus": 0,
+            "sort": 0,
+            "sale": 99,
+            "price": 2699.00,
+            "giftGrowth": 2699,
+            "giftPoint": 2699,
+            "usePointLimit": 0,
+            "subTitle": "骁龙845处理器，红外人脸解锁，AI变焦双摄，AI语音助手小米6X低至1299，点击抢购",
+            "originalPrice": 2699.00,
+            "stock": 100,
+            "lowStock": 0,
+            "unit": "",
+            "weight": 0.00,
+            "previewStatus": 0,
+            "serviceIds": "1",
+            "keywords": "",
+            "note": "",
+            "albumPics": "",
+            "detailTitle": "",
+            "promotionPerLimit": 0,
+            "promotionType": 3,
+            "brandName": "小米",
+            "productCategoryName": "手机通讯",
+            "description": "小米8 全面屏游戏智能手机 6GB+64GB 黑色 全网通4G 双卡双待",
+            "detailDesc": "",
+            "detailHtml": "<p style=\"text-align: center;\"><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/95935/9/19330/159477/5e9ecc13E5b8db8ae/8e954021a0835fb7.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/99224/22/19596/137593/5e9ecc13E34ef2113/2b362b90d8378ee1.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/93131/25/19321/107691/5e9ecc13E41e8addf/202a5f84d9129878.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/101843/19/19533/66831/5e9ecc13Ecb7f9d53/4fdd807266583c1e.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/99629/36/19016/59882/5e9ecc13E1f5beef5/1e5af3528f366e70.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/72343/29/8945/84548/5d6e5c67Ea07b1125/702791816b90eb3d.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/65403/35/9017/129532/5d6e5c68E3f2d0546/9ec771eb6e04a75a.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/58261/33/9380/106603/5d6e5c68E05a99177/2b5b9e29eed05b08.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/51968/40/9688/113552/5d6e5c68E5052b312/8969d83124cb78a4.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/75491/9/9101/146883/5d6e5c68E3db89775/c1aa57e78ded4e44.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/75063/11/9107/127874/5d6e5c68E0b1dfc61/10dd6000ce213375.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/47452/25/9579/108279/5d6e5c68Ea9002f3b/865b5d32ffd9da75.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/82146/26/9077/87075/5d6e5c68Ef63bccc8/556de5665a35a3f2.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/82804/21/9019/124404/5d6e5c69E06a8f575/0f861f8c4636c546.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/46044/10/9734/107686/5d6e5c69Edd5e66c7/a8c7b9324e271dbd.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/40729/32/13755/45997/5d6e5c69Eafee3664/6a3457a4efdb79c5.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/76254/34/9039/96195/5d6e5c69E3c71c809/49033c0b7024c208.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/79825/20/9065/90864/5d6e5c69E1e62ef89/a4d3ce383425a666.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/49939/21/9618/106207/5d6e5c6aEf7b1d4fd/0f5e963c66be3d0c.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/64035/7/9001/115159/5d6e5c6aE6919dfdf/39dfe4840157ad81.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/53389/3/9616/99637/5d6e5c6aEa33b9f35/b8f6aa26e72616a3.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/63219/6/9026/81576/5d6e5c6aEa9c74b49/b4fa364437531012.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/42146/27/13902/80437/5d6e5c6bE30c31ce9/475d4d54c7334313.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/45317/28/9596/78175/5d6e5c6bEce31e4b7/5675858b6933565c.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/60080/1/9112/138722/5d6e5c6bEefd9fc62/7ece7460a36d2fcc.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/51525/13/9549/36018/5d6e5c73Ebbccae6c/99bc2770dccc042b.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/61948/20/9088/72918/5d6e5c73Eab7aef5c/6f21e2f85cf478fa.jpg!q70.dpg.webp\" /></p>",
+            "detailMobileHtml": "<p style=\"text-align: center;\"><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/95935/9/19330/159477/5e9ecc13E5b8db8ae/8e954021a0835fb7.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/99224/22/19596/137593/5e9ecc13E34ef2113/2b362b90d8378ee1.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/93131/25/19321/107691/5e9ecc13E41e8addf/202a5f84d9129878.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/101843/19/19533/66831/5e9ecc13Ecb7f9d53/4fdd807266583c1e.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWareDetail/jfs/t1/99629/36/19016/59882/5e9ecc13E1f5beef5/1e5af3528f366e70.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/72343/29/8945/84548/5d6e5c67Ea07b1125/702791816b90eb3d.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/65403/35/9017/129532/5d6e5c68E3f2d0546/9ec771eb6e04a75a.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/58261/33/9380/106603/5d6e5c68E05a99177/2b5b9e29eed05b08.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/51968/40/9688/113552/5d6e5c68E5052b312/8969d83124cb78a4.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/75491/9/9101/146883/5d6e5c68E3db89775/c1aa57e78ded4e44.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/75063/11/9107/127874/5d6e5c68E0b1dfc61/10dd6000ce213375.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/47452/25/9579/108279/5d6e5c68Ea9002f3b/865b5d32ffd9da75.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/82146/26/9077/87075/5d6e5c68Ef63bccc8/556de5665a35a3f2.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/82804/21/9019/124404/5d6e5c69E06a8f575/0f861f8c4636c546.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/46044/10/9734/107686/5d6e5c69Edd5e66c7/a8c7b9324e271dbd.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/40729/32/13755/45997/5d6e5c69Eafee3664/6a3457a4efdb79c5.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/76254/34/9039/96195/5d6e5c69E3c71c809/49033c0b7024c208.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/79825/20/9065/90864/5d6e5c69E1e62ef89/a4d3ce383425a666.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/49939/21/9618/106207/5d6e5c6aEf7b1d4fd/0f5e963c66be3d0c.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/64035/7/9001/115159/5d6e5c6aE6919dfdf/39dfe4840157ad81.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/53389/3/9616/99637/5d6e5c6aEa33b9f35/b8f6aa26e72616a3.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/63219/6/9026/81576/5d6e5c6aEa9c74b49/b4fa364437531012.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/42146/27/13902/80437/5d6e5c6bE30c31ce9/475d4d54c7334313.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/45317/28/9596/78175/5d6e5c6bEce31e4b7/5675858b6933565c.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/60080/1/9112/138722/5d6e5c6bEefd9fc62/7ece7460a36d2fcc.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/51525/13/9549/36018/5d6e5c73Ebbccae6c/99bc2770dccc042b.jpg!q70.dpg.webp\" /><img src=\"//img30.360buyimg.com/popWaterMark/jfs/t1/61948/20/9088/72918/5d6e5c73Eab7aef5c/6f21e2f85cf478fa.jpg!q70.dpg.webp\" /></p>"
+        },
+        "brand": {
+            "id": 6,
+            "name": "小米",
+            "firstLetter": "M",
+            "sort": 500,
+            "factoryStatus": 1,
+            "showStatus": 1,
+            "productCount": 100,
+            "productCommentCount": 100,
+            "logo": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20200607/5565f5a2N0b8169ae.jpg",
+            "bigPic": "http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/20221108/xiaomi_banner_01.png",
+            "brandStory": "小米公司正式成立于2010年4月，是一家专注于高端智能手机、互联网电视自主研发的创新型科技企业。主要由前谷歌、微软、摩托、金山等知名公司的顶尖人才组建。"
+        },
+        "productAttributeList": [
+            {
+                "id": 43,
+                "productAttributeCategoryId": 3,
+                "name": "颜色",
+                "selectType": 0,
+                "inputType": 0,
+                "inputList": "",
+                "sort": 100,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 1,
+                "type": 0
+            },
+            {
+                "id": 44,
+                "productAttributeCategoryId": 3,
+                "name": "容量",
+                "selectType": 0,
+                "inputType": 1,
+                "inputList": "16G,32G,64G,128G,256G,512G",
+                "sort": 0,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 0,
+                "type": 0
+            },
+            {
+                "id": 45,
+                "productAttributeCategoryId": 3,
+                "name": "屏幕尺寸",
+                "selectType": 0,
+                "inputType": 0,
+                "inputList": "",
+                "sort": 0,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 0,
+                "type": 1
+            },
+            {
+                "id": 46,
+                "productAttributeCategoryId": 3,
+                "name": "网络",
+                "selectType": 0,
+                "inputType": 1,
+                "inputList": "3G,4G,5G,WLAN",
+                "sort": 0,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 0,
+                "type": 1
+            },
+            {
+                "id": 47,
+                "productAttributeCategoryId": 3,
+                "name": "系统",
+                "selectType": 0,
+                "inputType": 1,
+                "inputList": "Android,IOS",
+                "sort": 0,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 0,
+                "type": 1
+            },
+            {
+                "id": 48,
+                "productAttributeCategoryId": 3,
+                "name": "电池容量",
+                "selectType": 0,
+                "inputType": 0,
+                "inputList": "",
+                "sort": 0,
+                "filterType": 0,
+                "searchType": 0,
+                "relatedStatus": 0,
+                "handAddStatus": 0,
+                "type": 1
+            }
+        ],
+        "productAttributeValueList": [
+            {
+                "id": 288,
+                "productId": 27,
+                "productAttributeId": 43,
+                "value": "黑色,蓝色"
+            },
+            {
+                "id": 289,
+                "productId": 27,
+                "productAttributeId": 45,
+                "value": "5.8"
+            },
+            {
+                "id": 290,
+                "productId": 27,
+                "productAttributeId": 46,
+                "value": "4G"
+            },
+            {
+                "id": 291,
+                "productId": 27,
+                "productAttributeId": 47,
+                "value": "Android"
+            },
+            {
+                "id": 292,
+                "productId": 27,
+                "productAttributeId": 48,
+                "value": "3000ml"
+            }
+        ],
+        "skuStockList": [
+            {
+                "id": 98,
+                "productId": 27,
+                "skuCode": "201808270027001",
+                "price": 2699.00,
+                "stock": 86,
+                "lockStock": -24,
+                "spData": "[{\"key\":\"颜色\",\"value\":\"黑色\"},{\"key\":\"容量\",\"value\":\"32G\"}]"
+            },
+            {
+                "id": 99,
+                "productId": 27,
+                "skuCode": "201808270027002",
+                "price": 2999.00,
+                "stock": 100,
+                "lockStock": 0,
+                "spData": "[{\"key\":\"颜色\",\"value\":\"黑色\"},{\"key\":\"容量\",\"value\":\"64G\"}]"
+            },
+            {
+                "id": 100,
+                "productId": 27,
+                "skuCode": "201808270027003",
+                "price": 2699.00,
+                "stock": 100,
+                "lockStock": 0,
+                "spData": "[{\"key\":\"颜色\",\"value\":\"蓝色\"},{\"key\":\"容量\",\"value\":\"32G\"}]"
+            },
+            {
+                "id": 101,
+                "productId": 27,
+                "skuCode": "201808270027004",
+                "price": 2999.00,
+                "stock": 100,
+                "lockStock": 0,
+                "spData": "[{\"key\":\"颜色\",\"value\":\"蓝色\"},{\"key\":\"容量\",\"value\":\"64G\"}]"
+            }
+        ],
+        "productLadderList": [
+            {
+                "id": 99,
+                "productId": 27,
+                "count": 2,
+                "discount": 0.80,
+                "price": 0.00
+            },
+            {
+                "id": 100,
+                "productId": 27,
+                "count": 3,
+                "discount": 0.75,
+                "price": 0.00
+            }
+        ],
+        "couponList": []
+    }
+}
