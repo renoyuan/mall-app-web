@@ -111,6 +111,11 @@
 				"navigationBarTitleText": "我的地址"
 			}
 		}, {
+			"path": "pages/coupon/couponList",
+			"style": {
+				"navigationBarTitleText": "我的优惠券"
+			}
+		},{
 			"path": "pages/user/readHistory",
 			"style": {
 				"enablePullDownRefresh": true,
@@ -175,6 +180,11 @@
 					"bounce": "none"
 				}
 			}
+		}, {
+			"path": "pages/notice/notice",
+			"style": {
+				"navigationBarTitleText": "通知"
+			}
 		},
 		{
 			"path": "pages/user/user",
@@ -221,7 +231,36 @@
 			{
 				"navigationBarTitleText" : ""
 			}
-		}
+		},
+		{
+			"path" : "pages/userinfo/userinfo",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		
+		},{
+			"path" : "pages/cart/cart",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}},{
+			"path" : "pages/order/createOrder",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}},{
+			"path" : "pages/order/order",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}},{
+			"path" : "pages/order/orderDetail",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}}
+		
 
 	],
 	"globalStyle": {
@@ -246,6 +285,12 @@
 				"iconPath": "static/tab-cate.png",
 				"selectedIconPath": "static/tab-cate-current.png",
 				"text": "分类"
+			},
+			{
+				"pagePath": "pages/cart/cart",
+				"iconPath": "static/tab-my.png",
+				"selectedIconPath": "static/tab-my-current.png",
+				"text": "购物车"
 			},
 			{
 				"pagePath": "pages/user/user",
