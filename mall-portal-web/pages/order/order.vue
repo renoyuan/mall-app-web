@@ -79,6 +79,7 @@
 		},
 		data() {
 			return {
+				state: 0,
 				tabCurrentIndex: 0,
 				orderParam: {
 					status: -1,
@@ -130,7 +131,10 @@
 			this.loadData(); // 无论 options.state 的值是什么，都调用 loadData
 
 		},
-		
+		computed:
+		{
+			
+		},
 		methods: {
 			//获取订单列表
 			loadData(type = 'refresh') {
@@ -168,12 +172,15 @@
 			},
 			//swiper 切换
 			changeTab(e) {
-				this.tabCurrentIndex = e.target.current;
+				this.tabCurrentIndex = e.detail.current;
+				console.log('changeTab - tabCurrentIndex:', this.tabCurrentIndex);
 				this.loadData();
 			},
 			//顶部tab点击
 			tabClick(index) {
 				this.tabCurrentIndex = index;
+				this.loadData(); // 触发数据加载
+				console.log('tabClick - tabCurrentIndex:', this.tabCurrentIndex);
 			},
 			//删除订单
 			deleteOrder(orderId) {
@@ -266,6 +273,7 @@
 				}
 				return totalQuantity;
 			},
+			
 			formatStatus(status) {
 				let statusTip = '';
 				switch (+status) {
@@ -285,8 +293,8 @@
 						statusTip = '交易关闭';
 						break;
 				}
-				console.log("status is ",status)
-				console.log("statusTip is ",statusTip)
+				// console.log("status is ",status)
+				// console.log("statusTip is ",statusTip)
 				return statusTip;
 			},
 			formatProductAttr(jsonAttr) {
